@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swapi</string>
+    <string name="selection_element">Selectionnez l\'élément qui vous intéresse</string>
+    <string name="recherche">Recherche</string>
+    <string name="title">Title</string>
+    <string name="name">Name</string>
+    <string name="model">Model</string>
+    <string name="menu_principal">Menu Principal</string>
+</resources>

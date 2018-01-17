@@ -1,0 +1,4 @@
+#Wed Jan 17 16:56:14 CET 2018
+base.0=/home/gougeoan/Documents/Cours/S9/app/build/intermediates/transforms/dexMerger/debug/20
+path.0=classes.dex
+renamed.0=classes.dex
